@@ -1,0 +1,11 @@
+
+~
+java:S1104	"\Make numberOfBicycles a static final constant or non-public and provide accessors if needed.(ç’ÙÈûÿÿÿÿ8ÆŠ„…1
+X
+java:S1444	"6Make this "public static numberOfBicycles" field final(ç’ÙÈûÿÿÿÿ8“ÆŠ„…1
+H
+java:S1068"+Remove this unused "cadence" private field.(÷„÷“8ß…¸è„1
+J
+java:S1068"(Remove this unused "gear" private field.(Ÿ°îÑüÿÿÿÿ8à…¸è„1
+E
+java:S1068")Remove this unused "speed" private field.(‡ÚÙ)8à…¸è„1

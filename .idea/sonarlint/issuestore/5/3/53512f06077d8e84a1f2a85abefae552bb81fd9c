@@ -1,0 +1,16 @@
+
+0
+java:S1220""Move this file to a named package.
+K
+java:S1854"5Remove this useless assignment to local variable "a".(õ‡žÐ
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÖÌÑW8¨²³Û„1
+<
+java:S1481"&Remove this unused "a" local variable.(õ‡žÐ
+7
+java:S1170"!Make this final field static too.(Â­ãÚ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯¦Ý½
+s
+java:S1128"VRemove this unused import 'loclt.application.access_modifiers.AccessPrivateModifiers'.(Þ¦÷‰8‘žŒÍ1
+C
+java:S1144"(Remove this unused private "msg" method.(ŽÐð¥þÿÿÿÿ

@@ -1,0 +1,21 @@
+
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(‘•’Ïùÿÿÿÿ
+t	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—ùİ¼ÿÿÿÿÿ
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(«×ğùÿÿÿÿ8øÙ¬ã‚1
+>
+java:S1116"Remove this empty statement.(«×ğùÿÿÿÿ8ùÙ¬ã‚1
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼¸’
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†—ºéüÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡–ùúÿÿÿÿ
+—
+java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³’
+–
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·ù>
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ù“–üÿÿÿÿ8åİ„1
+U
+java:S1610/":Convert the abstract class "ModelKPlus" into an interface.(ã†­üÿÿÿÿ
